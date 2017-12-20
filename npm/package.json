@@ -1,0 +1,19 @@
+{
+  "name": "clyhui",
+  "version": "1.0.0",
+  "description": "clyhui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/powerxiao/clyhui.git"
+  },
+  "author": "cl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/powerxiao/clyhui/issues"
+  },
+  "homepage": "https://github.com/powerxiao/clyhui#readme"
+}
